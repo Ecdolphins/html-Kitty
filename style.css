@@ -4,10 +4,14 @@ body{
 h1{
     text-transform: uppercase;
 }
+p{
+    font-size:large
+}
 .Poster{
 width: 50%;
 margin-left: 25%;
 margin-top: 200px;
+margin-bottom: 100px;
 color:aliceblue;
 font-family:"Libre Baskerville", serif;
 text-align: center;
